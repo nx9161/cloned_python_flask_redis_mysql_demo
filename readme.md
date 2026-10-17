@@ -1,5 +1,8 @@
 ## Config.yaml
 
+> **Clone / study project** — this repo is a re-implementation or copy of someone else's work, kept for learning. All credit for the original belongs to its authors.
+
+
 rename config.yaml.template to config.yaml
 
 ## Format the Code
@@ -70,3 +73,7 @@ http://127.0.0.1:8000/film/2/actors
 get film_2_actors
 
 ```
+
+---
+
+Built by **Naman Parmar** ([nx9161](https://github.com/nx9161)).
